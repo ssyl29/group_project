@@ -2,9 +2,3 @@
 
 testing
 lol
-
-this is cloned
-
-bananas
-
-
